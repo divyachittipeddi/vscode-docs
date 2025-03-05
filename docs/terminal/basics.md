@@ -1,6 +1,6 @@
 ---
 Order: 2
-Area: terminal
+Area: 
 TOCTitle: Terminal Basics
 ContentId: 7B4DC928-2414-4FC7-9C76-E4A13D6675FE
 PageTitle: Integrated Terminal in Visual Studio Code
